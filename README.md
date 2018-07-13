@@ -1,7 +1,9 @@
 # Homework 23.1, 23.2, 24.1 & 24.2
 ## Introduction of React & JSX
-This React app combine many homework together. The links
-in this project can not use.
+- This React app combine many homework together. 
+- The links in this project can not use.
+- Pokemon database is not complete yet. 
+- This app use Thai language.
 ### 23.1: Build components
 1. Remember the project building pattern.
 2. Call a TA for test your memory.
